@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.log
+*.3mf
+*.gcode
+*.stl
+*.txt
